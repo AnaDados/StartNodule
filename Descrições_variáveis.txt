@@ -1,0 +1,17 @@
+ℹ️ Informações Adicionais sobre Variáveis
+
+1) ID number
+2) Diagnosis (M = malignant, B = benign)
+
+Ten real-valued features are computed for each cell nucleus:
+
+	a) radius (média das distâncias do centro aos pontos no perímetro)
+	b) texture (desvio padrão dos valores em escala de cinza)
+	c) perimeter
+	d) area
+	e) smoothness (variação local nos comprimentos dos raios)
+	f) compactness (perímetro^2 / área - 1,0)
+	g) concavity (gravidade das porções côncavas do contorno)
+	h) concave points (número de porções côncavas do contorno)
+	i) symmetry 
+	j) fractal dimension ("aproximação da linha de costa" - 1)
